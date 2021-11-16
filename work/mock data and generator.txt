@@ -1,0 +1,13 @@
+
+
+https://github.com/rookiemonkey/dummy-products-api
+
+https://github.com/mdmoin7/Random-Products-Json-Generator
+
+https://www.npmjs.com/package/unique-names-generator
+
+
+https://demo.starapps.studio/products/printed-maxi-dress.json
+
+
+https://github.com/shopifypartners/product-csvs
